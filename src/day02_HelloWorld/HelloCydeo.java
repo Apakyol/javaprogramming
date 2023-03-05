@@ -6,6 +6,7 @@ public class HelloCydeo {
 
         System.out.println("Hello Cydeo");
         System.out.println("East Turkistan");
+        System.out.println("East Turkistan Independent Republic");
    }
 
 
